@@ -1,11 +1,11 @@
 * Weronika
-      -EPCC
+      - EPCC
 * Furkan
-      -OSU
+      - OSU
 * Fizzy
-      -GATECH
+      - GATECH
 * Yiyen
-      -UT
+      - UT
 * Satoshi
       - KU
 
