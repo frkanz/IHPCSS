@@ -2,4 +2,9 @@
       -EPCC
 * Furkan
       -OSU
-
+* Fizzy
+      -GATECH
+* Yiyen
+      -UT
+* Satoshi
+      - KU
